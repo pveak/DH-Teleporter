@@ -5,11 +5,6 @@ loadstring(game:HttpGet('
 
 
 --[[
-
-
-
-
-
          Made by alethia
          Commands:
          /e db (Double Barrel)
