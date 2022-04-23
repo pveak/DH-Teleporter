@@ -1,1 +1,33 @@
-cant release until theres an actual good obfuscator or when i get bored
+loadstring(game:HttpGet('
+
+
+
+
+
+--[[
+
+
+
+
+
+         Made by alethia
+         Commands:
+         /e db (Double Barrel)
+         /e shotgun (Standard Shotgun
+         /e tac (Tactical Shotgun
+         /e rev (Revolver)
+         /e ak (AK)
+         /e ar (AR)
+         /e aug (AUG)
+         /e smg (SMG)
+         /e drum (Drum Gun)
+         /e flame (Flame thrower)
+         /e rpg (RPG)
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬         
+         Admin Tps
+         
+         /e adminguns (Admin Guns
+         /e adminguns2 (Admin Guns 2)
+         /e adminfood (Admin Food & RPG)
+
+]]
