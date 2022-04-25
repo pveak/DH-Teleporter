@@ -9,9 +9,13 @@ loadstring(game:HttpGet('
          Commands:
          /e revroof (Teleports to revolver roof)
          /e school (Teleports to school roof)
+         /e ufo (Teleports to UFO)
+         /e casino (Teleports to Casino)
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬       
+         Gun Tps 
          /e db (Double Barrel)
-         /e shotgun (Standard Shotgun
-         /e tac (Tactical Shotgun
+         /e shotgun (Standard Shotgun)
+         /e tac (Tactical Shotgun)
          /e rev (Revolver)
          /e ak (AK)
          /e ar (AR)
@@ -20,6 +24,7 @@ loadstring(game:HttpGet('
          /e drum (Drum Gun)
          /e flame (Flame thrower)
          /e rpg (RPG)
+         /e armor (Teleports to Medium armor)
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬         
          Admin Tps
          
